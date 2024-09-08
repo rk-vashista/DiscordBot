@@ -1,6 +1,6 @@
 # Discord Bot
 
-Welcome to the Discord Bot project! 🎉 This bot uses Python and the `discord.py` library to interact with users and Groq's AI for smart responses.
+This bot uses Python and the `discord.py` library to interact with users and Groq's AI for smart responses.
 
 ## Setup
 
